@@ -1,4 +1,4 @@
-module github.com/ykotanli
+module github.com/ykotanli/docker_intro
 
 go 1.21.0
 
